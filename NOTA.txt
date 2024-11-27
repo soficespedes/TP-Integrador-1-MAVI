@@ -1,0 +1,12 @@
+Buenas! Un algunas notas y aclaraciones para tener en cuenta sobre el proyecto:
+
+Para testear el proyecto y que todo compilara bien, además de probarlo yo misma (y que funcione), le pedí a unos compañeros que lo testearan tambien, uno pudo jugarlo con normalidad, mientras que otro tuvo problemas para compilarlo, no le salía ningún error, pero no podía ejecutar el juego. Si llega a tener algún problema me gustaría que sea comunicado a la brevedad y asi idear una forma de que pueda probarlo con normalidad. 
+
+Con respecto a la parte de la consigna donde menciona que si usabamos algun tipo de ayuda externa para realizar el TP, me gustaría aclarar que utilicé Inteligencia Artificial para poder entender bien qué tipo de lógica utilizar al hacer un menú, ya que era la primera vez que programaba uno. 
+
+
+Espero que le guste. 
+
+Saludos.
+
+ 
